@@ -81,7 +81,7 @@ Follow these steps to replicate or inspect the project locally:
 
 1.**Clone the Repository:**
 
-   git clone https://github.com/your-username/Customer_behavior_analysis.git
+   git clone https://github.com/sethimini-ruwinthi/Customer_behavior_analysis.git
    cd Customer_behavior_analysis
 
 
