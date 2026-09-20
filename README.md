@@ -81,15 +81,15 @@ Follow these steps to replicate or inspect the project locally:
 
 1.**Clone the Repository:**
 
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/your-username/Customer_behavior_analysis.git
+   cd Customer_behavior_analysis
 
 
 2.**Run the Python Scripts / Notebooks:**
 
    *Open the EDA notebook in Jupyter:
 
-     jupyter notebook notebooks/eda_and_cleaning.ipynb
+     jupyter notebook notebooks/Customer_shopping_behavior.ipynb
 
 
    *Ensure required libraries are installed:
@@ -99,10 +99,10 @@ Follow these steps to replicate or inspect the project locally:
 
 3.**Set Up the Database:**
 
-   *Create a PostgreSQL database named project_db.
+   *Create a PostgreSQL database named customer_behavior.
 
-   *Run the SQL scripts found in the sql/ folder to execute queries.
+   *Run the SQL scripts found in the folder to execute queries.
 
 4.**View the Power BI Dashboard:**
 
-   Open the .pbix file located in the dashboard/ folder using Power BI Desktop. Ensure your database connection parameters match your local   PostgreSQL setup.
+   Open the .pbix file located in the folder using Power BI Desktop. Ensure your database connection parameters match your local PostgreSQL setup.
