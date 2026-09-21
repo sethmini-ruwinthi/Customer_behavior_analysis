@@ -72,6 +72,8 @@ The interactive Power BI dashboard provides visibility into:
 * **rend Analysis:** Monthly and yearly performance trends.
 
 * **Breakdown Visuals:** Performance split by category, region, and customer segments.
+  <img width="890" height="498" alt="image" src="https://github.com/user-attachments/assets/dd09db65-7e33-471f-b14f-c2079f76a1d5" />
+
 
 
 
